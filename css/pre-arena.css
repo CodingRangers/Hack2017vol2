@@ -1,0 +1,119 @@
+#wrapper{
+	width: 100%;
+	background-color: #010101;
+	
+}
+#container{
+	background-image:url("img/gui.jpg");
+	background-repeat: no-repeat;
+	background-size: 85% 100%;
+	background-position: center;
+	height: 700px;
+	
+	
+ 
+}
+
+h2 {
+	text-align: center;
+	color: #CDA869;
+	margin-top: 54px;
+}
+
+p {
+	font-family: 'Jura', sans-serif;
+	color : white;
+	font-size: 16pt;
+	color: #CDA869;
+}
+.data {
+	color: #99CCFF;
+}
+
+#first {
+	margin-left: 30%;
+	margin-top: 60px;
+}
+#second {
+	margin-left: 58%;
+	margin-top: -28px;
+}
+#third {
+	margin-left: 30%;
+	margin-top: 30px;
+}
+#fourth {
+	margin-left: 60%;
+	margin-top: -28px;
+}
+#fifth {
+	margin-left: 48%;
+	margin-top: 23px;
+	font-size: 28pt;
+}
+#fifth span {
+	font-size: 62pt;
+	margin-left: 5px;
+	margin-top: -20px
+}
+#choose {
+	margin-top: -370px;
+	margin-left: 32%;
+	font-weight: bold;
+	font-size: 26pt;
+
+}
+.magics label, .magics input{
+	display: inline-block;
+}
+
+#dificulty {
+	margin-left: 45%;
+	font-weight: bold;
+	font-size: 26pt;
+	margin-top: -130px;
+}
+
+#radio {
+	margin-left: 47%;
+	font-size: 16pt;
+	margin-top: 20px;
+	text-transform: uppercase;
+}
+#magics {
+	width: 80%;
+	margin: 170px auto;
+}
+
+#magics .row {
+	margin-top: 10px;
+}
+
+#magics .row .magic-item img {
+	border: 2px solid #CDA869;
+	border-radius: 50%;
+	width: 58px;
+}
+
+
+
+#magics .row .magic-item:hover .text,
+#magics .row .magic-item:hover img {
+	border-color: #FFFFFF;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+
+.text {
+	font-family: 'Jura', sans-serif;
+	color : white;
+	font-size: 16pt;
+	color: #CDA869;
+}
+.back {
+	background-color:#000;
+	height: 100px;
+	margin-top: -200px;
+}
+
