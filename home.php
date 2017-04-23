@@ -16,7 +16,7 @@ include_once('header.php');
 						<div class="slider-info">
 							
 							<h4>Human</h4>
-							  <p style="margin-left: 38%;">The power of mind</p>
+							  <p>The power of mind</p>
 							<a href="#projects" class="hvr-shutter-in-horizontal scroll">Read More</a>
 						</div>
 					</li>
@@ -27,7 +27,7 @@ include_once('header.php');
 						<div class="slider-info">
 						 
 							<h4>Creatures</h4>
-							   <p style="margin-left: 38%;" >The big boys</p>
+							   <p>The big boys</p>
 					<a href="#projects" class="hvr-shutter-in-horizontal scroll">Read More</a>
 						</div>
 					</li>
@@ -38,7 +38,7 @@ include_once('header.php');
 						<div class="slider-info">
 							
 							<h4>Mage</h4>
-						   <p style="margin-left: 38%;" >Powerful and unstoppable</p>
+						   <p>Powerful and unstoppable</p>
 						<a href="#projects" class="hvr-shutter-in-horizontal scroll">Read More</a>
 						</div>
 					</li>
